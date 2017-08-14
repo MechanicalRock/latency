@@ -43,7 +43,7 @@ If someone engages in any behaviour violating this Code of Conduct, [the moderat
 
 Decisions about consequences of violations of this Code of Conduct are made by [the moderators](#who-are-the-moderators) and will not necessarily be discussed with the person responsible for the violation.
 
-## Questions or Feedback
+## Questions or feedback
 
 If you have any questions or feedback on this Code of Conduct, [we’re happy to hear from you](mailto:latency@mechanicalrock.io).
 
