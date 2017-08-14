@@ -52,6 +52,7 @@ If you have any questions or feedback on this Code of Conduct, [we’re happy to
 The current moderators of the Latency community are:
 
 * Hamish Tedeschi
+* Nick Jenkins
 
 You can contact us by email at [latency@mechanicalrock.io](mailto:latency@mechanicalrock.io).
 
@@ -59,4 +60,4 @@ You can contact us by email at [latency@mechanicalrock.io](mailto:latency@mechan
 
 We’re grateful to these references for providing us with ideas and inspiration for this document:
 
-* https://raw.githubusercontent.com/cucumber/cucumber/master/CODE_OF_CONDUCT.md
+* https://github.com/cucumber/cucumber/blob/master/CODE_OF_CONDUCT.md
