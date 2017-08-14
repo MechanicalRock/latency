@@ -1,5 +1,3 @@
-# latency code of conduct
-
 # Latency conference code of conduct
 
 Latency is a community conference aimed at progressive IT Leaders, Developers, Testers and Product Owners. A successful conference is based on  diversity of attendees and opinions, so we are committed to ensuring that it is a safe, enjoyable and thriving environment for everyone.
