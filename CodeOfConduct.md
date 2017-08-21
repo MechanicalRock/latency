@@ -45,7 +45,7 @@ Decisions about consequences of violations of this Code of Conduct are made by [
 
 ## Questions or feedback
 
-If you have any questions or feedback on this Code of Conduct, [we’re happy to hear from you](mailto:latency@mechanicalrock.io).
+If you have any questions or feedback on this Code of Conduct, [we’re happy to hear from you](mailto:contact@latencyconf.io).
 
 ## Who are the moderators?
 
@@ -54,7 +54,7 @@ The current moderators of the Latency community are:
 * Hamish Tedeschi
 * Nick Jenkins
 
-You can contact us by email at [latency@mechanicalrock.io](mailto:latency@mechanicalrock.io).
+You can contact us by email at [contact@latencyconf.io](mailto:contact@latencyconf.io).
 
 ## References / inspiration
 
