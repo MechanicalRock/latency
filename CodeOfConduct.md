@@ -6,7 +6,7 @@ As a community, we expect any participant to act according to the following grou
 
 ## Enforcing this code of conduct
 
-If you experience or observe a violation of this code of conduct, or have any other concerns, please contact [the moderators](#who-are-the-moderators) at [latency@mechanicalrock.io](mailto:latency@mechanicalrock.io). We are there to help you. Your reports will be taken seriously, treated in confidence and will not be dismissed or argued with.
+If you experience or observe a violation of this code of conduct, or have any other concerns, please contact [the moderators](#who-are-the-moderators) at [contact@latencyconf.io](mailto:contact@latencyconf.io). We are there to help you. Your reports will be taken seriously, treated in confidence and will not be dismissed or argued with.
 
 As a member of the community, you are also encouraged to help others act according to the following principles.
 
