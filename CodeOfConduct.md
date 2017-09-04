@@ -52,7 +52,9 @@ If you have any questions or feedback on this Code of Conduct, [we’re happy to
 The current moderators of the Latency community are:
 
 * Hamish Tedeschi
+* Tania Broome
 * Nick Jenkins
+* Min Xu
 
 You can contact us by email at [contact@latencyconf.io](mailto:contact@latencyconf.io).
 
