@@ -53,9 +53,8 @@ The current moderators of the Latency community are:
 
 * Hamish Tedeschi
 * Tania Broome
-* Nick Jenkins
-* Min Xu
 * Ross McKillop
+* Sarah Wright
 
 You can contact us by email at [contact@latencyconf.io](mailto:contact@latencyconf.io).
 
