@@ -52,7 +52,7 @@ If you have any questions or feedback on this Code of Conduct, [we’re happy to
 The current moderators of the Latency community are:
 
 * Hamish Tedeschi
-* Tania Broome
+* Tania Miller-Jones
 * Ross McKillop
 * Sarah Wright
 
